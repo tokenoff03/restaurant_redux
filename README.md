@@ -4,9 +4,7 @@ This repository contains the website configuration and documentation supporting 
 
 - [Getting started](#%EF%B8%8F-getting-started)
 - [Overview](#-overview)
-- [Website configuration](#-website-configuration)
-- [Contributing](#-contributing)
-- [License](#-license)
+
 
 ## ✈️ Getting started
 
@@ -47,5 +45,6 @@ This repository contains the website configuration and documentation supporting 
 15. connect(), mapDispatchToProps(), mapStateToProps().
 16. Manage React UI (User Interface) for Redux BLL (Business Logic Layer)
 
-## 👏 Contributing
+## 👏 Screenshots
+
 
