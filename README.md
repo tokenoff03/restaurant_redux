@@ -46,5 +46,9 @@ This repository contains the website configuration and documentation supporting 
 16. Manage React UI (User Interface) for Redux BLL (Business Logic Layer)
 
 ## 👏 Screenshots
+### WelcomePage:
 
+<p align="center">
+ <img width="600" src="assets/index.png" alt="welcome"/>
+</p>
 
