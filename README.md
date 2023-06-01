@@ -49,6 +49,6 @@ This repository contains the website configuration and documentation supporting 
 ### WelcomePage:
 
 <p align="center">
- <img width="600" src="assets/index.png" alt="welcome"/>
+ <img width="600" src="public/assets/index.png" alt="welcome"/>
 </p>
 
