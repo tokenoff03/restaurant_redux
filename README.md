@@ -4,6 +4,7 @@ This repository contains the website configuration and documentation supporting 
 
 - [Getting started](#%EF%B8%8F-getting-started)
 - [Overview](#-overview)
+- [Screenshots](#👏-Screenshots)
 
 
 ## ✈️ Getting started
