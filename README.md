@@ -52,3 +52,33 @@ This repository contains the website configuration and documentation supporting 
  <img width="600" src="public/assets/index.png" alt="welcome"/>
 </p>
 
+### MenuPage:
+Using API we took data
+<br>
+<p align="center">
+ <img width="600" src="public/assets/menu.png" alt="welcome"/>
+</p>
+
+### Searching:
+
+props.array.include() function was used
+<br>
+<p align="center">
+ <img width="600" src="public/assets/search.png" alt="welcome"/>
+</p>
+
+### Description Page:
+We took the menu by id in the request parameter
+
+<br>
+<p align="center">
+ <img width="600" src="public/assets/desc.png" alt="welcome"/>
+</p>
+
+### Reviews Page:
+In this page we use CRUD. Used Redux BLL (Business Logic Layer)
+
+<br>
+<p align="center">
+ <img width="600" src="public/assets/reviews.png" alt="welcome"/>
+</p>
